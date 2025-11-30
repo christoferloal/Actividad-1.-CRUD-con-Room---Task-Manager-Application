@@ -30,15 +30,18 @@ Instrucciones de instalación y ejecución.
 
 Estructura de la base de datos.
 
+ columna           tipo      descripción                       
+
+ id                Int       llave primaria autogenerada       
+ task_title        String    título de la tarea                
+ task_description  String    descripción de la tarea           
+ created_at        String    fecha de creación (timestamp)     
+ is_completed      Boolean   estado de la tarea                
 
 
 Capturas de pantalla de las interfaces de usuario.
 
 Pantalla principal
-
-
-<img width="902" height="1954" alt="pantallap_20251129_211132" src="https://github.com/user-attachments/assets/0ed6175c-6142-470d-8ac7-927244e6f378" />
-
 
 <img width="1080" height="2340" alt="pantallap_20251129_211132" src="https://github.com/user-attachments/assets/16c532e2-0763-412a-8032-6c223decd24a" />
 
