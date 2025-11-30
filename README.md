@@ -30,13 +30,14 @@ Instrucciones de instalación y ejecución.
 
 Estructura de la base de datos.
 
- columna           -tipo      -descripción                       
 
- id                -Int       -llave primaria autogenerada       
- task_title        -String    -título de la tarea                
- task_description  -String    -descripción de la tarea           
- created_at        -String    -fecha de creación (timestamp)     
- is_completed      -Boolean   -estado de la tarea                
+| columna          | tipo     | descripción                       |
+|------------------|----------|-----------------------------------|
+| id               | Int      | llave primaria autogenerada       |
+| task_title       | String   | título de la tarea                |
+| task_description | String   | descripción de la tarea           |
+| created_at       | String   | fecha de creación (timestamp)     |
+| is_completed     | Boolean  | estado de la tarea                |
 
 
 Capturas de pantalla de las interfaces de usuario.
