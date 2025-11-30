@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/5718b6dc-764f-4729-86a7-b5fd8c1eaae7)
-
 ACTIVIDADES - PERSISTENCIA CON ROOM
 
 Actividad 1. CRUD con Room
