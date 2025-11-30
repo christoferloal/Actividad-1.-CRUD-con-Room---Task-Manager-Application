@@ -36,6 +36,10 @@ Capturas de pantalla de las interfaces de usuario.
 
 Pantalla principal
 
+
+<img width="902" height="1954" alt="pantallap_20251129_211132" src="https://github.com/user-attachments/assets/0ed6175c-6142-470d-8ac7-927244e6f378" />
+
+
 <img width="1080" height="2340" alt="pantallap_20251129_211132" src="https://github.com/user-attachments/assets/16c532e2-0763-412a-8032-6c223decd24a" />
 
 <img width="1080" height="2340" alt="pantallap2_20251129_211238" src="https://github.com/user-attachments/assets/ad858d89-6c15-4c31-b358-68c6549cebea" />
