@@ -23,7 +23,7 @@ La aplicación implementa:
 Instrucciones de instalación y ejecución.
 
 1. Clonar el repositorio:
-   git clone
+   git clone https://github.com/christoferloal/Actividad-1.-CRUD-con-Room---Task-Manager-Application.git
 2. Abrir el proyecto en Android Studio.
 3. Esperar a que se sincronicen las dependencias de Gradle.
 4. Ejecutar la app en un emulador o dispositivo físico.
