@@ -35,11 +35,13 @@ Estructura de la base de datos.
 Capturas de pantalla de las interfaces de usuario.
 
 Pantalla principal
-<img width="1080" height="2340" alt="pantallap2_20251129_211238" src="https://github.com/user-attachments/assets/ea578144-ea31-4078-bac5-bc3dcb2d3ed3" />
+
+<img width="1080" height="2340" alt="pantallap_20251129_211132" src="https://github.com/user-attachments/assets/16c532e2-0763-412a-8032-6c223decd24a" />
 
 <img width="1080" height="2340" alt="pantallap2_20251129_211238" src="https://github.com/user-attachments/assets/ad858d89-6c15-4c31-b358-68c6549cebea" />
 
 Formulario de agregar/editar tarea
+
 <img width="1080" height="2340" alt="Formulario_20251129_210626" src="https://github.com/user-attachments/assets/d48112df-b9ba-4d37-bc72-0d0e812a604e" />
 
 <img width="1080" height="2340" alt="Formulario2_20251129_211328" src="https://github.com/user-attachments/assets/cea67cd0-c392-4b28-a30f-d36199392e98" />
